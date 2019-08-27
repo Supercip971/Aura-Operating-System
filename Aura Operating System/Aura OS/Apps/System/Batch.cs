@@ -31,7 +31,7 @@ namespace Aura_OS.Apps.System
                 }
                 else
                 {
-                    Text.Display("notavalidscript");
+                    Text.Display("not a valid script");
                 }
             }
             catch (Exception ex)
